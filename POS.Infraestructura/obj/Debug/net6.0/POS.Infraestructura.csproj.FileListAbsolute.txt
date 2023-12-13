@@ -1,0 +1,17 @@
+C:\Users\Gilberto\Desktop\Escuela\Programación\P.Venta-BackEnd\POS.Infraestructura\bin\Debug\net6.0\POS.Infraestructura.deps.json
+C:\Users\Gilberto\Desktop\Escuela\Programación\P.Venta-BackEnd\POS.Infraestructura\bin\Debug\net6.0\POS.Infraestructura.dll
+C:\Users\Gilberto\Desktop\Escuela\Programación\P.Venta-BackEnd\POS.Infraestructura\bin\Debug\net6.0\POS.Infraestructura.pdb
+C:\Users\Gilberto\Desktop\Escuela\Programación\P.Venta-BackEnd\POS.Infraestructura\bin\Debug\net6.0\POS.Domain.dll
+C:\Users\Gilberto\Desktop\Escuela\Programación\P.Venta-BackEnd\POS.Infraestructura\bin\Debug\net6.0\POS.Utilities.dll
+C:\Users\Gilberto\Desktop\Escuela\Programación\P.Venta-BackEnd\POS.Infraestructura\bin\Debug\net6.0\POS.Domain.pdb
+C:\Users\Gilberto\Desktop\Escuela\Programación\P.Venta-BackEnd\POS.Infraestructura\bin\Debug\net6.0\POS.Utilities.pdb
+C:\Users\Gilberto\Desktop\Escuela\Programación\P.Venta-BackEnd\POS.Infraestructura\obj\Debug\net6.0\POS.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\Gilberto\Desktop\Escuela\Programación\P.Venta-BackEnd\POS.Infraestructura\obj\Debug\net6.0\POS.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gilberto\Desktop\Escuela\Programación\P.Venta-BackEnd\POS.Infraestructura\obj\Debug\net6.0\POS.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\Gilberto\Desktop\Escuela\Programación\P.Venta-BackEnd\POS.Infraestructura\obj\Debug\net6.0\POS.Infraestructura.AssemblyInfo.cs
+C:\Users\Gilberto\Desktop\Escuela\Programación\P.Venta-BackEnd\POS.Infraestructura\obj\Debug\net6.0\POS.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\Gilberto\Desktop\Escuela\Programación\P.Venta-BackEnd\POS.Infraestructura\obj\Debug\net6.0\POS.Infraestructura.csproj.CopyComplete
+C:\Users\Gilberto\Desktop\Escuela\Programación\P.Venta-BackEnd\POS.Infraestructura\obj\Debug\net6.0\POS.Infraestructura.dll
+C:\Users\Gilberto\Desktop\Escuela\Programación\P.Venta-BackEnd\POS.Infraestructura\obj\Debug\net6.0\refint\POS.Infraestructura.dll
+C:\Users\Gilberto\Desktop\Escuela\Programación\P.Venta-BackEnd\POS.Infraestructura\obj\Debug\net6.0\POS.Infraestructura.pdb
+C:\Users\Gilberto\Desktop\Escuela\Programación\P.Venta-BackEnd\POS.Infraestructura\obj\Debug\net6.0\ref\POS.Infraestructura.dll
